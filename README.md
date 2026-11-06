@@ -35,9 +35,10 @@ Follow these steps to run the calculator on a local terminal (e.g.,`Ubuntu`):
 
 2. Install dependencies (if not already installed):
    This project requires NumPy. Ensure it is installed in your environment.
+   
    `pip install numpy`
 
-3. Execute the script:
+4. Execute the script:
    python3 main.py
 
 # 📸 Usage Example
